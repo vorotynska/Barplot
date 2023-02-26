@@ -1,0 +1,15 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 70px;
+}
+svg {
+    background-color: darkkhaki;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 10;
+}
